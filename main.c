@@ -14,7 +14,6 @@ int main (int argc, const char * argv[])
     // insert code here...
     printf("Hello, World!\n");
     printf("\nThis is a c test!\n");
-    printf("this is the third line.\n");
     return 0;
 }
 
