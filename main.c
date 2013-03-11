@@ -14,7 +14,11 @@ int main (int argc, const char * argv[])
     // insert code here...
     printf("Hello, World!\n");
     printf("\nThis is a c test!\n");
+<<<<<<< HEAD
     printf("\nThis is master branch!\n");
+=======
+    printf("\nThis is test branch!\n");
+>>>>>>> test
     return 0;
 }
 
